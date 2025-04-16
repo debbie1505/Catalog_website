@@ -130,3 +130,5 @@ If you really want to use data from an API, **save it to a file** (like `.json` 
 ---
 
 > 💬 **Have any questions?** Drop them on the [Padlet here](https://padlet.com/arlenschallenge/2025-snap-engineering-academy-stage-2-project-assessment-que-ndmqkef3wxt8sh72) and we'll get back to you!
+
+Side: GitHub Link: https://debbie1505.github.io/Catalog_website/
