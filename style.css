@@ -145,6 +145,7 @@ margin-bottom: 1rem;
   font-weight: bold;
   cursor: pointer;
   transition: background-color 0.2s ease;
+  max-width: 15rem;
   
 
 }
@@ -154,4 +155,8 @@ a{
 
 .button:hover {
   background-color: #004f5a;
+}
+
+.b-2-home{
+  text-align: center;
 }
