@@ -1,4 +1,4 @@
-const url = './genuises.json';
+const url = 'geniuses.json';
 
 fetch(url)
   .then(response => response.json())
