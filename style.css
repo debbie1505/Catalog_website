@@ -120,6 +120,10 @@ body {
   
 }
 
+.main-header p{
+  font-weight: 600;
+}
+
 main{
   display: flex;
   flex-direction: column;
@@ -161,6 +165,13 @@ a{
   text-align: center;
 }
 
+.individual-header{
+  font-family: "Poppins", sans-serif;
+}
+
+.individual-header h1{
+ font-size: 3rem;
+}
 /*Styling for the individual cards*/
 /* Container to center the profiles */
 #profile-container {
