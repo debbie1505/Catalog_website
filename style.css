@@ -102,9 +102,56 @@ body {
   flex-direction: column;
   justify-content: center;
   width: 100%;
+  background-color: #fdedcf;
+  color: #2c3e50;
 
 }
 
 .title {
    font-size: 3rem
+}
+
+.main-header{
+  background-color: #fdedcf;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #5c3d2e;
+  
+}
+
+main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img{
+  max-width: 30rem;
+  margin-bottom:2rem;
+}
+
+.buttons{
+display: flex;
+gap: 1.5rem;
+margin-bottom: 1rem;
+}
+.button, button{
+  background-color: #006d77;
+  color: #ffffff;
+  padding: .75rem 1.5rem;
+  border: none;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  
+
+}
+a{
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: #004f5a;
 }
