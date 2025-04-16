@@ -1,0 +1,9 @@
+[
+    {
+        "name" : "Isaac Newton",
+        "lifespan": "1643-1727",
+        "image": "newton.jpg",
+        "bio": "Formulated the laws of motion and universal gravitation.",
+        "quote": "If I have seen further, it is by standing on the shoulders of giants "
+    }
+]
