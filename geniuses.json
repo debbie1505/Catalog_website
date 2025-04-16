@@ -1,9 +1,269 @@
 [
     {
-        "name" : "Isaac Newton",
-        "lifespan": "1643-1727",
-        "image": "newton.jpg",
-        "bio": "Formulated the laws of motion and universal gravitation.",
-        "quote": "If I have seen further, it is by standing on the shoulders of giants "
+      "name": "Isaac Newton",
+      "lifespan": "1643–1727",
+      "field": "Physics",
+      "contribution": "Laws of motion and universal gravitation",
+      "quote": "If I have seen further it is by standing on the shoulders of giants."
+    },
+    {
+      "name": "Albert Einstein",
+      "lifespan": "1879–1955",
+      "field": "Physics",
+      "contribution": "Theory of relativity",
+      "quote": "Imagination is more important than knowledge."
+    },
+    {
+      "name": "James Clerk Maxwell",
+      "lifespan": "1831–1879",
+      "field": "Physics",
+      "contribution": "Formulated classical electromagnetic theory",
+      "quote": "Thoroughly conscious ignorance is the prelude to every real advance in science."
+    },
+    {
+      "name": "Marie Curie",
+      "lifespan": "1867–1934",
+      "field": "Physics",
+      "contribution": "Pioneered research on radioactivity",
+      "quote": "Nothing in life is to be feared, it is only to be understood."
+    },
+    {
+      "name": "Galileo Galilei",
+      "lifespan": "1564–1642",
+      "field": "Physics",
+      "contribution": "Father of modern observational astronomy",
+      "quote": "And yet it moves."
+    },
+    {
+      "name": "Niels Bohr",
+      "lifespan": "1885–1962",
+      "field": "Physics",
+      "contribution": "Bohr model of the atom",
+      "quote": "Prediction is very difficult, especially about the future."
+    },
+    {
+      "name": "Richard Feynman",
+      "lifespan": "1918–1988",
+      "field": "Physics",
+      "contribution": "Quantum electrodynamics",
+      "quote": "I would rather have questions that can't be answered than answers that can't be questioned."
+    },
+    {
+      "name": "Stephen Hawking",
+      "lifespan": "1942–2018",
+      "field": "Physics",
+      "contribution": "Black hole radiation and cosmology",
+      "quote": "Intelligence is the ability to adapt to change."
+    },
+    {
+      "name": "Erwin Schrödinger",
+      "lifespan": "1887–1961",
+      "field": "Physics",
+      "contribution": "Wave mechanics and Schrödinger equation",
+      "quote": "The task is not so much to see what no one has yet seen, but to think what nobody has yet thought."
+    },
+    {
+      "name": "Werner Heisenberg",
+      "lifespan": "1901–1976",
+      "field": "Physics",
+      "contribution": "Uncertainty principle in quantum mechanics",
+      "quote": "Not only is the Universe stranger than we think, it is stranger than we can think."
+    },
+    {
+      "name": "Dmitri Mendeleev",
+      "lifespan": "1834–1907",
+      "field": "Chemistry",
+      "contribution": "Periodic table of elements",
+      "quote": "There is nothing in this world that I fear to say."
+    },
+    {
+      "name": "Antoine Lavoisier",
+      "lifespan": "1743–1794",
+      "field": "Chemistry",
+      "contribution": "Law of conservation of mass",
+      "quote": "Nothing is lost, nothing is created, everything is transformed."
+    },
+    {
+      "name": "Linus Pauling",
+      "lifespan": "1901–1994",
+      "field": "Chemistry",
+      "contribution": "Chemical bonding and quantum chemistry",
+      "quote": "The best way to have a good idea is to have lots of ideas."
+    },
+    {
+      "name": "Gilbert N. Lewis",
+      "lifespan": "1875–1946",
+      "field": "Chemistry",
+      "contribution": "Lewis dot structures",
+      "quote": "Every experiment proves something. If it doesn't prove what you wanted it to, it proves something else."
+    },
+    {
+      "name": "Robert Boyle",
+      "lifespan": "1627–1691",
+      "field": "Chemistry",
+      "contribution": "Boyle’s Law and gas properties",
+      "quote": "The excellency of a subject doth not always lie in the difficulty of its principles."
+    },
+    {
+      "name": "Rosalind Franklin",
+      "lifespan": "1920–1958",
+      "field": "Chemistry",
+      "contribution": "X-ray diffraction images of DNA",
+      "quote": "Science and everyday life cannot and should not be separated."
+    },
+    {
+      "name": "Ahmed Zewail",
+      "lifespan": "1946–2016",
+      "field": "Chemistry",
+      "contribution": "Father of femtochemistry",
+      "quote": "The real wealth of a nation is its people."
+    },
+    {
+      "name": "Jöns Jacob Berzelius",
+      "lifespan": "1779–1848",
+      "field": "Chemistry",
+      "contribution": "Atomic weights and chemical notation",
+      "quote": "Theories are like searchlights; they do not illuminate the whole landscape, but direct the way."
+    },
+    {
+      "name": "Glenn T. Seaborg",
+      "lifespan": "1912–1999",
+      "field": "Chemistry",
+      "contribution": "Co-discovered 10 elements, including plutonium",
+      "quote": "The education of young people in science is at least as important, maybe more so, than the research itself."
+    },
+    {
+      "name": "Marie Curie",
+      "lifespan": "1867–1934",
+      "field": "Chemistry",
+      "contribution": "Discovery of polonium and radium",
+      "quote": "Be less curious about people and more curious about ideas."
+    },
+    {
+      "name": "Gottfried Wilhelm Leibniz",
+      "lifespan": "1646–1716",
+      "field": "Calculus",
+      "contribution": "Co-creator of calculus and differential notation",
+      "quote": "The present is big with the future."
+    },
+    {
+      "name": "Joseph-Louis Lagrange",
+      "lifespan": "1736–1813",
+      "field": "Calculus",
+      "contribution": "Lagrangian mechanics, calculus of variations",
+      "quote": "As long as algebra and geometry proceed in separate paths, their progress is slow and their applications limited."
+    },
+    {
+      "name": "Leonhard Euler",
+      "lifespan": "1707–1783",
+      "field": "Calculus",
+      "contribution": "Euler’s identity and infinite series",
+      "quote": "Mathematicians are like lovers... grant them their first request and they will follow you anywhere."
+    },
+    {
+      "name": "Augustin-Louis Cauchy",
+      "lifespan": "1789–1857",
+      "field": "Calculus",
+      "contribution": "Rigorous calculus foundations, complex functions",
+      "quote": "It is by logic we prove, it is by intuition we discover."
+    },
+    {
+      "name": "Bernhard Riemann",
+      "lifespan": "1826–1866",
+      "field": "Calculus",
+      "contribution": "Riemann integrals and non-Euclidean geometry",
+      "quote": "If only I had the theorems! Then I should find the proofs easily enough."
+    },
+    {
+      "name": "Brook Taylor",
+      "lifespan": "1685–1731",
+      "field": "Calculus",
+      "contribution": "Taylor series expansion",
+      "quote": "The study of mathematics is like playing a musical instrument."
+    },
+    {
+      "name": "Colin Maclaurin",
+      "lifespan": "1698–1746",
+      "field": "Calculus",
+      "contribution": "Maclaurin series and algebraic geometry",
+      "quote": "Mathematics may be compared to a mill, which grinds your input and gives you truth."
+    },
+    {
+      "name": "Émilie du Châtelet",
+      "lifespan": "1706–1749",
+      "field": "Calculus",
+      "contribution": "Translated Newton’s Principia and explained his calculus",
+      "quote": "I am convinced that many women are either ignorant or made so because men are unwilling to share knowledge."
+    },
+    {
+      "name": "Joseph Fourier",
+      "lifespan": "1768–1830",
+      "field": "Calculus",
+      "contribution": "Fourier series and heat equation",
+      "quote": "Mathematics compares the most diverse phenomena and discovers the secret analogies that unite them."
+    },
+    {
+      "name": "Charles Darwin",
+      "lifespan": "1809–1882",
+      "field": "Biology",
+      "contribution": "Theory of evolution by natural selection",
+      "quote": "It is not the strongest of the species that survives, but the most adaptable."
+    },
+    {
+      "name": "Gregor Mendel",
+      "lifespan": "1822–1884",
+      "field": "Biology",
+      "contribution": "Father of genetics through pea plant experiments",
+      "quote": "My scientific studies have afforded me great gratification."
+    },
+    {
+      "name": "Louis Pasteur",
+      "lifespan": "1822–1895",
+      "field": "Biology",
+      "contribution": "Germ theory of disease, pasteurization",
+      "quote": "Chance favors only the prepared mind."
+    },
+    {
+      "name": "Barbara McClintock",
+      "lifespan": "1902–1992",
+      "field": "Biology",
+      "contribution": "Discovered 'jumping genes' (transposons)",
+      "quote": "If you know you are on the right track, if you have this inner knowledge, then nobody can turn you off."
+    },
+    {
+      "name": "Alexander Fleming",
+      "lifespan": "1881–1955",
+      "field": "Biology",
+      "contribution": "Discovered penicillin",
+      "quote": "One sometimes finds what one is not looking for."
+    },
+    {
+      "name": "Rachel Carson",
+      "lifespan": "1907–1964",
+      "field": "Biology",
+      "contribution": "Pioneer of environmental science, author of Silent Spring",
+      "quote": "The more clearly we can focus our attention on the wonders of the universe, the less taste we shall have for destruction."
+    },
+    {
+      "name": "Jane Goodall",
+      "lifespan": "1934–present",
+      "field": "Biology",
+      "contribution": "Revolutionized study of primates",
+      "quote": "What you do makes a difference, and you have to decide what kind of difference you want to make."
+    },
+    {
+      "name": "Edward O. Wilson",
+      "lifespan": "1929–2021",
+      "field": "Biology",
+      "contribution": "Father of sociobiology and biodiversity advocate",
+      "quote": "Destroying rainforest for economic gain is like burning a Renaissance painting to cook a meal."
+    },
+    {
+      "name": "Lynn Margulis",
+      "lifespan": "1938–2011",
+      "field": "Biology",
+      "contribution": "Endosymbiotic theory of cell evolution",
+      "quote": "Life did not take over the globe by combat, but by networking."
     }
-]
+  ]
+  
